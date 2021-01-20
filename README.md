@@ -1,7 +1,6 @@
 ### Hi there, I just found this secret feature and want to test it.👋
-## I'm collage student and currently learning CS and sharing my school projects on my own.
-## 
-## To reach me : ugur_k.oglu@hotmail.com
+### I'm collage student and currently learning CS and sharing my school projects on my own. 
+### To reach me : ugur_k.oglu@hotmail.com
 
 <!--
 **Ugur0855/Ugur0855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
