@@ -1,5 +1,5 @@
 ### Hi there, I just found this secret feature and want to test it.👋
-### I'm collage student and currently learning CS and sharing my school&work projects on my own. 
+### I'm sharing my school&work projects on my own. 
 ### To reach me : ugur_k.oglu@hotmail.com
 
 <!--
